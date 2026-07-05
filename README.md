@@ -28,7 +28,7 @@ The simulation was executed over a 60-minute interval with an 80% localized traf
 * **Static Routing (Baseline):** Reached instantaneous hardware saturation, resulting in severe and sustained data packet loss.
 * **Dynamic Routing (Proposed):** Successfully anticipated the demand trajectory, neutralizing the bottleneck and maintaining a near-zero packet loss environment.
 
-* 
+* ![Simulation Results]([./surge_graph.png](https://github.com/Blueflame777/5G-NTN-Offloading-Simulator/blob/main/Figure_1.2.png))
 
 ---
 
