@@ -9,7 +9,7 @@ This repository contains a time-step simulation environment and predictive routi
 
 Traditional 5G Non-Terrestrial Network (NTN) offloading policies utilize a static, reactive threshold that often results in bottleneck failures before Low Earth Orbit (LEO) satellite backhauls can absorb overflow. This project introduces a **Dynamic Predictive Routing Algorithm** that uses spatial user density modeling and temporal rate-of-change analysis to proactively allocate satellite bandwidth *before* absolute tower saturation occurs.
 
-📄 **Read the full IEEE-formatted research paper:** [Dynamic_5G_NTN_Offloading_Algorithm.pdf](./Dynamic_5G_NTN_Offloading_Algorithm.pdf)
+📄 **Read the full IEEE-formatted research paper:** [Dynamic_5G_NTN_Offloading_Algorithm.pdf]([./Dynamic_5G_NTN_Offloading_Algorithm.pdf](https://github.com/Blueflame777/5G-NTN-Offloading-Simulator/blob/main/Dynamic_5G_NTN_Offloading_Algorithm.pdf))
 
 ---
 
@@ -27,6 +27,8 @@ The simulation was executed over a 60-minute interval with an 80% localized traf
 
 * **Static Routing (Baseline):** Reached instantaneous hardware saturation, resulting in severe and sustained data packet loss.
 * **Dynamic Routing (Proposed):** Successfully anticipated the demand trajectory, neutralizing the bottleneck and maintaining a near-zero packet loss environment.
+
+* 
 
 ---
 
