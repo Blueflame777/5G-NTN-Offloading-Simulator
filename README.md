@@ -36,5 +36,5 @@ The simulation was executed over a 60-minute interval with an 80% localized traf
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/B/5G-NTN-Offloading.git](https://github.com/yourusername/5G-NTN-Offloading.git)
+git clone [[https://github.com/B/5G-NTN-Offloading.git](https://github.com/Blueflame777/5G-NTN-Offloading-Simulator)]
 cd 5G-NTN-Offloading
